@@ -2,8 +2,8 @@
 
 ## I'm a Competitive Programmer and Developer!!
 
-- 🌱 I’m currently learning React JS
-- 👯 I’m looking to collaborate with other developers
+-  I’m currently learning React JS
+-  I’m looking to collaborate with other developers
 
 ### Connect with me:
 
