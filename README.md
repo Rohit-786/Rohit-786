@@ -34,7 +34,7 @@
 
 </details>
 
-[website]: https://rohit-786.github.io/devportfolio/
+[website]: https://rohit-786.github.io/Rohit-Pradhan/
 [twitter]: https://twitter.com/RohitPr08263383
 [instagram]: https://www.instagram.com/rohit.p768/
 [linkedin]: https://www.linkedin.com/in/rohit-pradhan-a085a3185/
