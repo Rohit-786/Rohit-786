@@ -1,6 +1,6 @@
 ### <img src="https://github.com/Rohit-786/Rohit-786/blob/main/gifs/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/Rohit-786/Rohit-786/blob/main/gifs/Earth.gif" width="24px">
 
-# I'm Aditya Singh&nbsp;<img src="https://github.com/Rohit-786/Rohit-786/blob/main/gifs/Mario_Hello_Big.gif" width="30px">
+# I'm Rohit Pradhan&nbsp;<img src="https://github.com/Rohit-786/Rohit-786/blob/main/gifs/Mario_Hello_Big.gif" width="30px">
 
 <h3 align="left">🕸️ Incoming Software Engineer Intern 2022 @Atlassian</h3>
 
