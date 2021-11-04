@@ -147,7 +147,12 @@
 
 <img src='https://github-readme-stats.vercel.app/api?username=Rohit-786&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-786&theme=tokyonight&hide_langs_below=4' />
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rohit-786&theme=dark)
+<p align="left">
+	
+### Github Contribution ⚡
+	
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Rohit-786&theme=dark)
+</p>
 <br/>
 
 
