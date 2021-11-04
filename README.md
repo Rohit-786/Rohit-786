@@ -6,7 +6,7 @@
 
 <p align="left"> I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.Interested in Problem Solving, Competitive Programming, learning and implementing new Data Structures and Algorithms 👨🏻‍💻. Currently working on a Flutter project. Enthusiastic about Web development, Flutter and Android App Development.🌟. </p>
 
-# [⭐Portfolio ](https://rohit-786.github.io/Rohit-Pradhan/)
+## [⭐Portfolio ](https://rohit-786.github.io/Rohit-Pradhan/)
 
 ### [👔 Resume](https://drive.google.com/file/d/1Riwpp-H8AZhWC0MamkyVhCQy15AxxEFm/view?usp=sharing)
 
@@ -32,13 +32,13 @@
 
 <h3 align="left">📢 Find me elsewhere</h3>
 <p align="left">
-<h5 align="left">🪐 Socials</h5>
+<h4 align="left">🪐 Socials</h4>
 <a href="https://www.linkedin.com/in/rohit-pradhan-a085a3185/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/rohit-pradhan-a085a3185/"/></a>
 <a href="mailto:rohitpradhan768@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:rohitpradhan768@gmail.com"  /></a>
 
 </p>
 <p align="left">
-<h5 align="left">🏅 Competative Coding Platforms</h5>
+<h4 align="left">🏅 Competative Coding Platforms</h4>
 <a href="https://leetcode.com/rohitpradhan768/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="https://leetcode.com/rohitpradhan768/"/></a>
 <a href="https://www.codechef.com/users/rohit768" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="https://www.codechef.com/users/rohit768"  /></a>
 <a href="https://www.hackerrank.com/rohitpradhan768" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="https://www.hackerrank.com/rohitpradhan768" /></a>
