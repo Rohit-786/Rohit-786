@@ -143,16 +143,14 @@
 </tbody>
 </table>
 </details>
-	</h3>
+</h3>
 
-<img src='https://github-readme-stats.vercel.app/api?username=Rohit-786&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-786&theme=tokyonight&hide_langs_below=4' />
-<p align="left">
-	
-### Github Contribution ⚡
-	
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Rohit-786&theme=dark)
-</p>
+[![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit-786&count_private=true&show_icons=true&theme=midnight-purple&border_color=D400ff)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rohit-786&theme=highcontrast&ring=D400FF&fire=FFFFFF&currStreakLabel=D400FF&border=D400FF)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-786&layout=compact&theme=midnight-purple&border_color=D400ff)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
 
 
