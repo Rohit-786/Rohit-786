@@ -42,7 +42,7 @@
 <a href="https://leetcode.com/rohitpradhan768/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="https://leetcode.com/rohitpradhan768/"/></a>
 <a href="https://www.codechef.com/users/rohit768" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="https://www.codechef.com/users/rohit768"  /></a>
 <a href="https://www.hackerrank.com/rohitpradhan768" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="https://www.hackerrank.com/rohitpradhan768" /></a>
-<a href="https://auth.geeksforgeeks.org/user/adityakrsingh1999/practice/" target="blank"><img align="center" src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white" alt="https://auth.geeksforgeeks.org/user/adityakrsingh1999/practice/" height="25"  /></a>
+<a href="https://auth.geeksforgeeks.org/user/rohit768/profile" target="blank"><img align="center" src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white" alt="https://auth.geeksforgeeks.org/user/rohit768/profile" height="25"  /></a>
 
 ### Leetcode stats 🙇‍♂️
 
