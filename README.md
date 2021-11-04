@@ -48,8 +48,6 @@
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/?username=rohitpradhan768&style=dark&font=&extension=null)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rohit-786&theme=dark)
-
 </p>
 <h3>
 <details>
@@ -148,6 +146,7 @@
 	</h3>
 
 <img src='https://github-readme-stats.vercel.app/api?username=Rohit-786&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rohit-786&theme=dark)
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-786&theme=tokyonight&hide_langs_below=4' />
 <br/>
 
