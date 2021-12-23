@@ -46,7 +46,7 @@
 
 ### Leetcode stats 🙇‍♂️
 
-![LeetCode Stats](https://leetcode.card.workers.dev/?username=rohitpradhan768&style=dark&font=&extension=null)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=rohitpradhan768&theme=auto)
 
 </p>
 <h3>
