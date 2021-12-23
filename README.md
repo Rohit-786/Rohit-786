@@ -114,9 +114,13 @@
   	<tr>
       	<td><b>Prism Research Intern</b></td>
 	<td><a href="https://www.samsungprism.com/" target="_blank" >Samsung Research Institute R&D</a></td>
-      	<td>• Designing a fully automated information discovery framework to identify bill samples, bill details and biller logos.
-• The framework has inbuilt mechanism for managing ambiguity and false positives using public resources only. 
-• Language and Technology: Python, Web scrapping using Beautifulsoup, Image scrapping using Image Crawler, Django</td>
+		<td><ul>
+			<li>Data Science| Biller Data Discovery</li>
+			<li> Designing a fully automated information discovery framework to identify bill samples, bill details and biller logos.</li>
+			<li>The framework has inbuilt mechanism for managing ambiguity and false positives using public resources only. </li>
+			<li>Language and Technology: Python, Web scrapping using Beautifulsoup, Image scrapping using Image Crawler, Django</li>
+		</ul>
+		</td>
       	<td>May 2021 - Present</td>
     	</tr>
     	
