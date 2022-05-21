@@ -2,7 +2,7 @@
 
 # I'm Rohit Pradhan&nbsp;<img src="https://github.com/Rohit-786/Rohit-786/blob/main/gifs/Mario_Hello_Big.gif" width="30px">
 
-<h3 align="left">🕸️ Incoming Software Engineer Intern 2022 @Atlassian</h3>
+<h3 align="left">🕸️Software Engineer Intern 2022 @Atlassian</h3>
 
 <p align="left"> I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.Interested in Problem Solving, Competitive Programming, learning and implementing new Data Structures and Algorithms 👨🏻‍💻. Currently working on a Flutter project. Enthusiastic about Web development, Flutter and Android App Development.🌟. </p>
 
